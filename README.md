@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **Node Js and AWS Basics Course**
+- 🌱 I’m currently learning **Node Js and Flutter Basics Course**
 
 - 📝 I regularly write articles on [https://medium.com/@sadeepfernando12345](https://medium.com/@sadeepfernando12345)
 
